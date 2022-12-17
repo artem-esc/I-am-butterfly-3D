@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 701f038831912e041b2fc5e3945c8335
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -4791504522942941401
+    second: Climb3
+  - first:
+      74: 6165553400957861818
+    second: Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -4791504522942941401
+    second: climb3
+  - first:
+      74: -6928800830472273640
+    second: climb3 //// Armature
+  - first:
+      74: 6087194843992219368
+    second: climb3 //// Armature
+  - first:
+      74: 8890270573316655447
+    second: climb3 //// mixamorig:Hips
+  - first:
+      74: 7544126141603546293
+    second: climb3 //// mixamorig:Spine
+  - first:
+      74: -6505830645248668837
+    second: climb3 //// mixamorig:Spine1
+  - first:
+      74: -4977243270365180588
+    second: climb3 //// mixamorig:Spine2
+  - first:
+      74: 6039688413672617287
+    second: climb3 //// mixamorig:Neck
+  - first:
+      74: -3664898000360900671
+    second: climb3 //// mixamorig:Head
+  - first:
+      74: -4911419138882432045
+    second: climb3 //// mixamorig:HeadTop_End
+  - first:
+      74: 4855099469094984070
+    second: climb3 //// mixamorig:LeftShoulder
+  - first:
+      74: -5629983503278662838
+    second: climb3 //// mixamorig:LeftArm
+  - first:
+      74: -249289992302860681
+    second: climb3 //// mixamorig:LeftForeArm
+  - first:
+      74: 8096382642881529406
+    second: climb3 //// mixamorig:LeftHand
+  - first:
+      74: 6229242153740077946
+    second: climb3 //// mixamorig:LeftHandIndex1
+  - first:
+      74: 8211833863018270465
+    second: climb3 //// mixamorig:LeftHandIndex2
+  - first:
+      74: 547547864022282545
+    second: climb3 //// mixamorig:LeftHandIndex3
+  - first:
+      74: -2238640981875022132
+    second: climb3 //// mixamorig:LeftHandIndex4
+  - first:
+      74: -6036138283398451737
+    second: climb3 //// mixamorig:RightShoulder
+  - first:
+      74: -8256223551686876761
+    second: climb3 //// mixamorig:RightArm
+  - first:
+      74: 8733185215981861497
+    second: climb3 //// mixamorig:RightForeArm
+  - first:
+      74: 6593404821751019099
+    second: climb3 //// mixamorig:RightHand
+  - first:
+      74: 5463708963749509039
+    second: climb3 //// mixamorig:RightHandIndex1
+  - first:
+      74: 180548964348278804
+    second: climb3 //// mixamorig:RightHandIndex2
+  - first:
+      74: 233661315903693895
+    second: climb3 //// mixamorig:RightHandIndex3
+  - first:
+      74: -5699010946715549114
+    second: climb3 //// mixamorig:RightHandIndex4
+  - first:
+      74: 7539919526688233404
+    second: climb3 //// mixamorig:LeftUpLeg
+  - first:
+      74: -7513038928298854929
+    second: climb3 //// mixamorig:LeftLeg
+  - first:
+      74: 3833944409297664622
+    second: climb3 //// mixamorig:LeftFoot
+  - first:
+      74: 4705033299146403527
+    second: climb3 //// mixamorig:LeftToeBase
+  - first:
+      74: 8680202314078609986
+    second: climb3 //// mixamorig:LeftToe_End
+  - first:
+      74: 4450072074758379451
+    second: climb3 //// mixamorig:RightUpLeg
+  - first:
+      74: -9213951311223777628
+    second: climb3 //// mixamorig:RightLeg
+  - first:
+      74: -6750316607456813359
+    second: climb3 //// mixamorig:RightFoot
+  - first:
+      74: 3026582078779172591
+    second: climb3 //// mixamorig:RightToeBase
+  - first:
+      74: 3366664806175023755
+    second: climb3 //// mixamorig:RightToe_End
+  - first:
+      74: 4846101946985252848
+    second: climb3 //// mixamorig:Hips
+  - first:
+      74: -51187408930922861
+    second: climb3 //// mixamorig:Spine
+  - first:
+      74: 535063840811427197
+    second: climb3 //// mixamorig:Spine1
+  - first:
+      74: -3676991532363503522
+    second: climb3 //// mixamorig:Spine2
+  - first:
+      74: 6011700173413492234
+    second: climb3 //// mixamorig:Neck
+  - first:
+      74: -8084313837590392369
+    second: climb3 //// mixamorig:Head
+  - first:
+      74: -2267610697216599650
+    second: climb3 //// mixamorig:HeadTop_End
+  - first:
+      74: -3811428559158614280
+    second: climb3 //// mixamorig:LeftShoulder
+  - first:
+      74: 1868250414182084195
+    second: climb3 //// mixamorig:LeftArm
+  - first:
+      74: -2752656320633972829
+    second: climb3 //// mixamorig:LeftForeArm
+  - first:
+      74: -6958113747183754728
+    second: climb3 //// mixamorig:LeftHand
+  - first:
+      74: 4028866728023073796
+    second: climb3 //// mixamorig:LeftHandIndex1
+  - first:
+      74: -266598200155283642
+    second: climb3 //// mixamorig:LeftHandIndex2
+  - first:
+      74: -83249242793370157
+    second: climb3 //// mixamorig:LeftHandIndex3
+  - first:
+      74: -7484734658707927479
+    second: climb3 //// mixamorig:LeftHandIndex4
+  - first:
+      74: 7209252210710370815
+    second: climb3 //// mixamorig:RightShoulder
+  - first:
+      74: -2954234763731170688
+    second: climb3 //// mixamorig:RightArm
+  - first:
+      74: 3873577628804159627
+    second: climb3 //// mixamorig:RightForeArm
+  - first:
+      74: -580415762146825110
+    second: climb3 //// mixamorig:RightHand
+  - first:
+      74: 854246806854344235
+    second: climb3 //// mixamorig:RightHandIndex1
+  - first:
+      74: 1664469010667421655
+    second: climb3 //// mixamorig:RightHandIndex2
+  - first:
+      74: -8361850862570069588
+    second: climb3 //// mixamorig:RightHandIndex3
+  - first:
+      74: -1838199474293859981
+    second: climb3 //// mixamorig:RightHandIndex4
+  - first:
+      74: -4181171537827011309
+    second: climb3 //// mixamorig:LeftUpLeg
+  - first:
+      74: 1132115172204933042
+    second: climb3 //// mixamorig:LeftLeg
+  - first:
+      74: -433291092482783284
+    second: climb3 //// mixamorig:LeftFoot
+  - first:
+      74: -1016395439219375110
+    second: climb3 //// mixamorig:LeftToeBase
+  - first:
+      74: 7499059323156611343
+    second: climb3 //// mixamorig:LeftToe_End
+  - first:
+      74: 5597163387084035235
+    second: climb3 //// mixamorig:RightUpLeg
+  - first:
+      74: -7110538214705036623
+    second: climb3 //// mixamorig:RightLeg
+  - first:
+      74: 4147902563283657190
+    second: climb3 //// mixamorig:RightFoot
+  - first:
+      74: 2989247203176830027
+    second: climb3 //// mixamorig:RightToeBase
+  - first:
+      74: -7955746453991319489
+    second: climb3 //// mixamorig:RightToe_End
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: climb3
+      takeName: Armature|Armature|mixamo.com|Layer0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
